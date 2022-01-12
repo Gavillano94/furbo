@@ -1,0 +1,38 @@
+.container {
+    width: 1000px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+};
+
+.team-container{
+    width: 1000px;
+    height: 900px;
+    background-color: grey;
+};
+
+.scoreboard{
+    width: 800px;
+    height: 600px;
+    background-color: white;
+
+};
+
+/*.scoreboard > .team-a{
+
+};
+
+.scoreboard > .punctuation-team-a{
+
+};
+
+.scoreboard > .team-b{
+
+};
+
+.scoreboard > .punctuation-team-a{
+
+};*/
+
+
+
